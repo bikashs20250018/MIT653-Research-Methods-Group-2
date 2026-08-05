@@ -158,7 +158,7 @@ This study supports our specific research question by describing how adaptive le
 
 ### Research Gap
 
-The authors identified numerous challenges associated with adapting AI-based e-learning systems across various types of educational institutions including complexity of algorithms and issues with maintaining learner data privacy. :contentReference[oaicite:0]{index=0}
+The authors identified numerous challenges associated with adapting AI-based e-learning systems across various types of educational institutions including complexity of algorithms and issues with maintaining learner data privacy.
 
 ---
 
@@ -182,7 +182,7 @@ Although previous studies have demonstrated the benefits of AI-powered personali
 The literature shows:
 
 - Limited longitudinal studies evaluating long-term effectiveness.
-- Limited comparison between different AI-powered learning platforms.
+- Limited comparison among different AI-powered learning platforms.
 - Privacy and ethical concerns remain unresolved.
 - Few studies evaluate AI implementation across different universities.
 - Limited research investigating teachers' acceptance of AI technologies.
@@ -192,11 +192,11 @@ The literature shows:
 
 # 5. Relevance to Our Research
 
-These papers provide strong evidence that Artificial Intelligence significantly improves personalised learning through adaptive learning algorithms, intelligent tutoring systems, and tailored content delivery.
+These papers provide strong evidence that AI significantly improves personalized learning through adaptive algorithms, tutoring systems and tailored content delivery.
 
-Our proposed research extends previous work by analysing the effectiveness of AI-powered e-learning platforms in providing personalised learning experiences for university students.
+Our research builds on previous work by investigating how AI-powered e learning platforms deliver personalized learning experiences to university students. 
 
-The identified research gaps also justify our study by highlighting the need to evaluate AI implementation, learning effectiveness, and adaptive content delivery in modern higher education.
+We identify gaps in research that motivate our study by underscoring the need to evaluate implementation of AI, effectiveness of learning and adaptive content delivery in modern higher education.
 
 ---
 
