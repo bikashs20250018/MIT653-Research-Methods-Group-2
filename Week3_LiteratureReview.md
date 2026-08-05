@@ -9,9 +9,9 @@
 
 # 1. Introduction
 
-Artificial Intelligence (AI) has become an important technology in modern education. AI-powered e-learning platforms use adaptive learning algorithms, machine learning, and learning analytics to personalise educational content according to individual learners' needs, preferences, and performance. Unlike traditional e-learning systems, AI-based platforms can monitor learners' progress, recommend appropriate learning resources, and provide real-time feedback to improve learning outcomes.
+Technology such as artificial intelligence (AI), is becoming increasingly used in modern education. AI powered E-learning platforms employ adaptive learning algorithms, machine learning, and learning analytics to personalize the educational material presented to each learner based upon their own learning history, learning style, or learning preference. Furthermore, unlike other forms of E-learning, AI powered platforms are capable of tracking learners' progress, recommending appropriate learning materials, and providing immediate feedback to aid learners in achieving desired learning outcomes.
 
-This literature review analyses three highly relevant research papers to understand current developments, identify common themes, examine research methodologies, and highlight research gaps related to AI-powered personalised education.
+In this literature review we will be analyzing three well-researched studies that are extremely relevant to the topic at hand to gain a deeper understanding of current technological advancements in personalized education using AI to identify some commonalities among these studies; to compare the methodology used in these studies; and to discuss some potential areas of further research with respect to AI in personalized education.
 
 ---
 
@@ -45,22 +45,22 @@ Systematic Literature Review
 
 ### Purpose
 
-To examine how Artificial Intelligence has been applied in higher education and identify research trends.
+To determine how Artificial Intelligence has been applied in higher education and what the most recent trends have been with regard to this application.
 
 ### Key Findings
 
-- AI supports personalised learning.
-- Intelligent Tutoring Systems improve student learning.
-- Learning analytics assist instructors in monitoring student progress.
-- Adaptive learning improves student engagement.
+- AI has supported personalised learning.
+- Intelligent Tutoring Systems improved student learning.
+- Learning analytics assisted instructors in evaluating students' progress.
+- Adaptive learning increased student engagement.
 
 ### Contribution to Our Research
 
-This paper provides a strong theoretical foundation for AI-powered personalised learning in higher education and explains how adaptive learning technologies improve learning experiences.
+This study provides a solid theoretical basis for AI-powered personalized learning in higher education, and it describes how adaptive learning technologies can create better learning experiences.
 
 ### Research Gap
 
-The authors identified that very few studies investigated educators' perspectives and real classroom implementation of AI technologies.
+The authors concluded that there were few studies that evaluated educator's perceptions of AI technologies and their use in actual classrooms.
 
 ---
 
@@ -96,14 +96,14 @@ To analyse recent Artificial Intelligence applications in higher education publi
 
 ### Key Findings
 
-- AI improves personalised learning experiences.
-- AI predicts student performance.
-- AI supports adaptive assessment.
-- Chatbots and intelligent tutoring systems improve student support.
+- AI enhances personalised learning experiences.
+- AI predicts student success.
+- AI assists with assessing student adaptively.
+- Chatbots and intelligent tutoring systems enhance student support.
 
 ### Contribution to Our Research
 
-This paper demonstrates how AI technologies enhance personalised education through adaptive learning systems and data-driven decision making.
+The authors recommended additional research regarding long-term educational outcomes and challenges associated with implementing AI technologies.
 
 ### Research Gap
 
@@ -143,22 +143,22 @@ Systematic Literature Review
 
 ### Purpose
 
-To investigate how Artificial Intelligence and Machine Learning improve adaptive learning within e-learning platforms.
+To investigate how Artificial Intelligence and Machine Learning contribute to improving adaptive learning processes in e-learning platforms.
 
 ### Key Findings
 
-- AI personalises learning content.
-- Adaptive algorithms improve student engagement.
-- Real-time feedback enhances learning performance.
-- AI helps identify students' strengths and weaknesses.
+- AI personalizes learning content.
+- Adaptive algorithms increase student engagement.
+- Real-time feedback positively impacts learning performance.
+- AI identifies students' strengths and weaknesses.
 
 ### Contribution to Our Research
 
-This paper directly supports our research topic by explaining how adaptive learning algorithms personalise educational content and improve learning effectiveness.
+This study supports our specific research question by describing how adaptive learning algorithms enable AI-based e-learning platforms to tailor educational content to individual learners and thereby improve learning results.
 
 ### Research Gap
 
-The authors identified challenges related to data privacy, algorithm complexity, and implementation across different educational environments. :contentReference[oaicite:0]{index=0}
+The authors identified numerous challenges associated with adapting AI-based e-learning systems across various types of educational institutions including complexity of algorithms and issues with maintaining learner data privacy. :contentReference[oaicite:0]{index=0}
 
 ---
 
